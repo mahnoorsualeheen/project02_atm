@@ -1,0 +1,19 @@
+{
+  "name": "mmat-atm",
+  "version": "1.0.0",
+  "description": "CLI base ATM using Typescript, Node.Js and Inquirer.",
+  "main": "atm.js",
+  "type": "module",
+  "bin": "atm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahnoor Malik",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
